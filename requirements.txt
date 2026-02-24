@@ -1,0 +1,13 @@
+numpy
+pandas
+jupyter
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+xgboost
+tensorflow
+ucimlrepo
+ipywidgets
+kneed
+shap
