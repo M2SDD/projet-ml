@@ -214,5 +214,8 @@ rapport/*
 
 # Presentation
 presentation/*
+!presentation/pictures/
+!presentation/pictures/*/
+!presentation/pictures/*/*.png
 !presentation/*.tex
 !presentation/*.pdf
