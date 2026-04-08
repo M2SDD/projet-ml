@@ -211,3 +211,8 @@ __marimo__/
 rapport/*
 !rapport/*.tex
 !rapport/*.pdf
+
+# Presentation
+presentation/*
+!presentation/*.tex
+!presentation/*.pdf
